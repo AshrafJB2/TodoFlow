@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Django](https://img.shields.io/badge/django-4.0+-green.svg)
 ![DRF](https://img.shields.io/badge/djangorestframework-3.14+-red.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A RESTful API backend for a Todo application with JWT authentication, built with Django and Django REST Framework.
 
